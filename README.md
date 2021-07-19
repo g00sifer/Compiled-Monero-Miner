@@ -12,5 +12,5 @@ this options might be neede for some pools
 
 ---
 
-<g you can find more usefull options here>
-https://github.com/xmrig/xmrig
+you can find more usefull options here
+      https://github.com/xmrig/xmrig
