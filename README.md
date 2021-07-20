@@ -1,6 +1,6 @@
 # Compiled with 0% Developer Fee
 #### ready to use
-###### binary files need configuration to run proparly
+###### binary files need configuration to run properly
 you can find examples in **run** files.
 
 ---
