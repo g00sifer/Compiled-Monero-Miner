@@ -6,7 +6,7 @@ you can find examples in **run** files.
 ---
 
 #### --cpu-threads-hint
-this options accepts 4 value
+this options accepts 4 value.
 25 and 75 work only on 4-Core CPUs
 
 ---
