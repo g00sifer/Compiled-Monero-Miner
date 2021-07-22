@@ -1,1 +1,1 @@
-.\xmrig.exe --cuda -o <Pool> -u <Wallet> -p <Miner-Name> (-k --tls) --cpu-max-threads-hint [25|50|75|100] -o <Another-Pool> -u <Wallet> -p <Miner-Name> (-k --tls)
+.\xmrig.exe --cuda -o pool.supportxmr.com:5555 -u 44fztLjuRa9EZABiegqqCrgrTnbmP6FxXVfKTYDWC5tXLDYftszDhJjHFUVjBNntaPVdsSP7V7nvpE8StyssRhj48kBs7zD -p Worker1 (-k --tls) --cpu-max-threads-hint [25|50|75|100] -o pool.hashvault.pro:3333 -u 44fztLjuRa9EZABiegqqCrgrTnbmP6FxXVfKTYDWC5tXLDYftszDhJjHFUVjBNntaPVdsSP7V7nvpE8StyssRhj48kBs7zD -p Backup1 (-k --tls)
